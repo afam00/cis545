@@ -6,4 +6,4 @@ Used python (ipython, numpy, pandas), SQL, Spark, Google Cloud, and Tensorflow.
 <br />HW1:  data wrangling & cleaning
 <br />HW2:  basic graph operations (metadata & traversals)
 <br />HW3:  basic image operations, page rank algorithm, spark distributed computations on google cloud platform
-<br />Final project:  face recognition using Siamese convolutional neural networks
+<br />Final project:  face recognition with a limited dataset using Siamese convolutional neural networks
