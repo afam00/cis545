@@ -1,6 +1,6 @@
 # cis545
 
-Code and datasets for CIS 545 Big Data Analytics (Fall 2018) assignments. Main code is found in the Jupyter notebooks.
+Personal code for CIS 545 Big Data Analytics (Fall 2018) assignments. Main code is found in the Jupyter notebooks.
 Used python (ipython, numpy, pandas), SQL, Spark, Google Cloud, and Tensorflow.
 
 <br />HW1:  1-1   data wrangling & cleaning (of OpenFlights.org data, e.g. using nltk package)
