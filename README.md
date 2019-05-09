@@ -11,4 +11,4 @@ Used python (ipython, numpy, pandas), SQL, Spark, Google Cloud, and Tensorflow.
 <br />HW3:  basic image operations, page rank algorithm, spark distributed computations on google cloud platform
 <br />HW3:  ADV   text analysis
 
-<br />Final project:  face recognition with a limited dataset using Siamese convolutional neural networks
+<br />Final project:  image recognition with limited datasets using Siamese convolutional neural networks
